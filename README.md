@@ -1,4 +1,4 @@
-#RandomNamesGenerator
+https://github.com/SamuelLanders/Godot_4x_RandomNamesGenerator#RandomNamesGenerator
 
 Generates an array of names (strings) with current indexed entries of:
 1. Female (first & last name) using real world database of names
