@@ -1,5 +1,16 @@
 https://github.com/SamuelLanders/Godot_4x_RandomNamesGenerator#RandomNamesGenerator
 
+
+🛠️ Installation
+
+Download the RandomTimer addon for Godot 4.x.
+Extract the random_timer folder into the addons folder within your Godot project directory.
+Enable the addon in Godot's plugins tab. (Project > Project Settings > Plugins)
+
+
+📖 Usage
+Can use as either main screen plugin (click interface) or as direct plugin to your application (call to class_name NameGenerator.new_name() )
+ 
 Generates an array of names (strings) with current indexed entries of:
 1. Female (first & last name) using real world database of names
 2. Male (first & last name) using real world database of names
