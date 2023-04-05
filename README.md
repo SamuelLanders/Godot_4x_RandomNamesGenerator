@@ -24,5 +24,7 @@ Using multiple different methods, including a small database of a few thousand n
 
 This is a 'Main screen plugin' and will appear next to the 2D,3D,Script,AssetLib buttons in the top center of Godot 4.x
 
+💖 Credits
+
 This work is a derivative work of Emi @emi_cpl https://www.youtube.com/@emi_cpl updated for Godot 4.0
 It has been further developed by Samuel Landers of tigerwil@hotmail.com
