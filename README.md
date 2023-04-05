@@ -9,6 +9,7 @@ Enable the addon in Godot's plugins tab. (Project > Project Settings > Plugins)
 
 
 📖 Usage
+
 Can use as either main screen plugin (click interface) or as direct plugin to your application (call to class_name NameGenerator.new_name() )
  
 Generates an array of names (strings) with current indexed entries of:
